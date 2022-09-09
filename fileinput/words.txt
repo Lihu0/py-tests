@@ -1,0 +1,7 @@
+> I
+> love
+> python
+> and
+> fileinput
+> \n
+> helo
